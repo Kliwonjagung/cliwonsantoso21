@@ -1,0 +1,12 @@
+---
+name: KLIWON Jagung
+about: CLIWON tea
+title: KLIWON Jagung
+labels: ''
+assignees: ''
+
+---
+
+Kehidupan manusia tak terlepas dari berbagai peristiwa, tantangan, rintangan, kesempatan, dan pengalaman. Semua itu bisa dijadikan pelajaran setiap insan untuk menjadi pribadi yang lebih baik dari hari ke hari. Pengalaman adalah guru terbaik yang mengajarkan banyak hal, sehingga seseorang tidak jatuh di lubang kesalahan yang sama untuk kedua kalinya.
+
+Beberapa orang mungkin pernah merasakan atau sedang menjalani fase kehidupan yang berat dan menyakitkan. Hidup seperti drama yang tak berkesudahan. Apalagi bagi mereka yang kurang bersyukur, pasti akan menganggap bahwa kehidupan ini sebagai sebuah kutukan berat.
